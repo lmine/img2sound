@@ -1,10 +1,11 @@
+from Ignore import mineFft
+
 __author__ = 'liuc'
 
 
-import scipy, pylab
+import scipy
 import wave,struct,numpy
-import mineFft
-import Image, math
+import Image
 
 MAX_VOLUME=0.8
 
